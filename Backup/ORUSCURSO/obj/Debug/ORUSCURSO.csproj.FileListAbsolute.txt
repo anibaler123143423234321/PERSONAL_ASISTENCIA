@@ -1,0 +1,16 @@
+E:\Proyectos en Csharp\ORUSCURSO\bin\Debug\ORUSCURSO.exe
+E:\Proyectos en Csharp\ORUSCURSO\bin\Debug\ORUSCURSO.pdb
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.csprojAssemblyReference.cache
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Properties.Resources.resources
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.csproj.GenerateResource.cache
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.csproj.CoreCompileInputs.cache
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.exe
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.pdb
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Presentacion.MenuPrincipal.resources
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Presentacion.Personal.resources
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Presentacion.TomarAsistencias.resources
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Presentacion.CtlUsuarios.resources
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Presentacion.AsistenteInstalacion.ElecccionServidor.resources
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Presentacion.AsistenteInstalacion.InstalacionBd.resources
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Presentacion.Login.resources
+E:\Proyectos en Csharp\ORUSCURSO\obj\Debug\ORUSCURSO.Presentacion.AsistenteInstalacion.UsuarioPrincipal.resources
